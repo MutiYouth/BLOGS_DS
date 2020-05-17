@@ -1,6 +1,6 @@
-# 博客园文档与资料(长期更新, 2015-10-18 Build)
+# BLOGS DataSet
 
-声明，这是国内的cnblog中，那些共享的文件的百度网盘资料的移仓处。<br/>
+声明，这是国内的cnblog中，那些共享的文件的百度网盘资料 **_博客园文档与资料(长期更新, 2015-10-18 Build)_**, 的移仓处。<br/>
 Note: this is a blog's data which moved out from baidu net disk. <br/><br/>
 
 
