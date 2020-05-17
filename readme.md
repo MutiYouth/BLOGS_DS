@@ -9,8 +9,18 @@ Note: this is a blog's data which moved out from baidu net disk. <br/><br/>
 <br/>
 <br/>
 
+# purpose
+只为大家更快、更好的学习、工作、成长。
 
 
+
+# About
+## license
+BSD-3.
+
+## contract
+murphe@qq.com<br/>
+Zhejiang, China.<br/>
 20.5.17<br/>
-Zhejiang, China.
+
 
