@@ -1,0 +1,1 @@
+2020-02-13-raspbian-buster-full.zip 自己去官网下载一个最新的版本即可。
